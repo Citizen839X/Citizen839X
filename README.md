@@ -1,7 +1,9 @@
 # Hi there, I'm Carlo Sitaro 👋
 ### Graphic Designer | 3D Artist | Hardware Specialist
 
-Welcome to my portfolio! I am an independent creator with over 15 years of experience in 2D vector illustration and 8+ years in 3D modeling and 3D prints.
+Welcome to my portfolio! 
+
+I am an independent creator with over 15 years of experience in 2D vector illustration and 8+ years in 3D modeling and 3D prints.
 
 ---
 
@@ -10,7 +12,7 @@ Welcome to my portfolio! I am an independent creator with over 15 years of exper
 Specializing in scalable, high-detail vector art, print-ready apparel design, logos, and UI assets.
 
 ### 1. Detailed Vector Illustrations & Print Apparel
-High-detail line art, custom vector shading, and print-ready CMYK/Pantone vector paths for apparel, t-shirts, and posters.
+High-detail line art, custom vector shading, and print-ready CMYK/Pantone vector paths for apparel, t-shirts, mugs and posters.
 
 | Artwork Preview | Title & Description | Technical Details |
 | :---: | :--- | :--- |
@@ -18,7 +20,7 @@ High-detail line art, custom vector shading, and print-ready CMYK/Pantone vector
 | <img src="assets/2d/RoninSenshi_Design.png" width="250"/> | **Ronin Senshi - Isolated Vector**<br/>Detailed samurai armor line art inked for screen printing and direct-to-garment (DTG) apparel. | Clean vector outlines, separated color layers. |
 | <img src="assets/2d/RoninSenshi_web.png" width="250"/> | **Ronin Senshi - Poster Edition**<br/>Full poster artwork composition combining traditional Japanese ukiyo-e aesthetic with modern vector techniques. | Print-ready 300 DPI layout, custom vector textures. |
 | <img src="assets/2d/Scientists'Meeting_posterart2018.png" width="250"/> | **Scientists' Meeting (2018)**<br/>Sci-Fi pop-culture mashup poster artwork featuring the Ghostbusters crossing paths with Dr. Isaac Kleiner from Half-Life. | High-detail vector line work, custom comic-style shading & textures. |
-| <img src="assets/2d/The-Last-Machine-Standing_posterart2018.png" width="250"/> | **The Last Machine Standing (2018)**<br/>Sci-Fi poster artwork depicting a mechanical battle scene with intricate steampunk & Terminator details. | Complex vector composition, poster-ready 300 DPI layout. |
+| <img src="assets/2d/The-Last-Machine-Standing_posterart2018.png" width="250"/> | **The Last Machine Standing (2018)**<br/>Sci-Fi crossover poster artwork featuring Dog from Half-Life 2 in a mechanical showdown against a Terminator endoskeleton. | Complex vector composition, poster-ready 300 DPI layout. |
 
 ### 2. Vector Logos & Merchandising Design
 Custom typography, emblem design, scalable SVG/EPS formats optimized for screen printing, embroidery, mugs, and travel bags.
