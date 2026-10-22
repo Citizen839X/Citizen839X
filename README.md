@@ -80,8 +80,16 @@ A selection of 3D models created in Blender over the last 8 years. All models ar
 ---
 
 ### 📬 Get in Touch!
-For commissions, freelancing, or collaboration opportunities, feel free to reach out via email:  
-[![Email](https://img.shields.io/badge/Contact_Me-Email-3b91f6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlositaro@tiscali.it)
+For commissions, freelancing, or collaboration opportunities, feel free to reach out via email:
+
+<p align="center">
+  <br/>
+  <a href="mailto:carlositaro@tiscali.it">
+    <img src="https://img.shields.io/badge/Contact_Me-Email-3b91f6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact"/>
+  </a>
+  <br/>
+</p>
 
 ---
+
 *Crafted with passion for vector precision and 3D art.*
