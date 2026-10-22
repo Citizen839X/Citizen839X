@@ -79,7 +79,7 @@ A selection of 3D models created in Blender over the last 8 years. All models ar
 
 ---
 
-### 📬 Get in Touch
+### 📬 Get in Touch!
 For commissions, freelancing, or collaboration opportunities, feel free to reach out via email:  
 [![Email](https://img.shields.io/badge/Contact_Me-Email-3b91f6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlositaro@tiscali.it)
 
