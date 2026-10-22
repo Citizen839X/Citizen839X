@@ -68,9 +68,8 @@ A selection of 3D models created in Blender over the last 8 years. All models ar
 * **2D Vector & Graphic Design:** Adobe Illustrator, Adobe Photoshop, VectorCraft, PhotoCraft, Inkscape, Corel Painter, MyPaint, Krita
 * **3D Modeling & Pipeline:** Blender (Hard-Surface, Sculpting, UV Mapping, Cycles/Eevee)
 * **Game Development:** Godot Engine (GDScript, 2D Frame-by-Frame Sprites, 3D Environments)
-* **Office software:** Libre Office Suite, Microsoft Office Suite
-* **Operating Systems:** openSUSE Linux, Debian/Ubuntu Linux, Windows & Mac
-* **Virtualization:** Virtual Machine Manager powered by libvirt (QEMU/KVM)
+* **Virtualization & OS:** openSUSE Linux, Debian/Ubuntu, Windows, macOS | Virtual Machine Manager (QEMU/KVM powered by libvirt)
+* **Office & Productivity:** LibreOffice Suite, Microsoft Office Suite
 
 ---
 
