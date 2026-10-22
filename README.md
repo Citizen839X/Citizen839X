@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/SitaroArtworks_logo2012-18-.png" alt="SitaroArtworks Logo" width="220"/>
+</p>
+
 # Hi there, I'm Carlo Sitaro 👋
 ### Graphic Designer | 3D Artist | Hardware Specialist
 
