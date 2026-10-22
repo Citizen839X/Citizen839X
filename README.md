@@ -66,7 +66,7 @@ A selection of 3D models created in Blender over the last 8 years. All models ar
 ## Software & Technical Stack
 
 * **2D Vector & Graphic Design:** Adobe Illustrator, Adobe Photoshop, VectorCraft, PhotoCraft, Inkscape, Corel Painter, MyPaint, Krita
-* **3D Modeling & Pipeline:** Blender (Hard-Surface, Sculpting, UV Mapping, Cycles/Eevee)
+* **3D Modeling & Pipeline:** Blender (Hard-Surface, Sculpting, UV Mapping, Texture Painting)
 * **Game Development:** Godot Engine (GDScript, 2D Frame-by-Frame Sprites, 3D Environments)
 * **Virtualization & OS:** openSUSE Linux, Debian/Ubuntu, Windows, macOS | Virtual Machine Manager (QEMU/KVM powered by libvirt)
 * **Office & Productivity:** LibreOffice Suite, Microsoft Office Suite
