@@ -78,4 +78,10 @@ A selection of 3D models created in Blender over the last 8 years. All models ar
 * 🎮 **[DGS-X](https://github.com/Citizen839X/DGS-X-Desktop-Gamepad-System---XInput-):** Universal gamepad-to-mouse emulator written in Python & PySide6.
 
 ---
+
+### 📬 Get in Touch!
+For commissions, freelancing, or collaboration opportunities, feel free to reach out via email:  
+[![Email](https://img.shields.io/badge/Contact_Me-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlositaro@tiscali.it)
+
+---
 *Crafted with passion for vector precision and 3D art.*
