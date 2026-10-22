@@ -59,7 +59,7 @@ A selection of 3D models created in Blender over the last 8 years. All models ar
 * **2D Vector & Graphic Design:** Adobe Illustrator, VectorCraft, Inkscape
 * **3D Modeling & Pipeline:** Blender (Hard-Surface, Sculpting, UV Mapping, Cycles/Eevee)
 * **Game Development:** Godot Engine (GDScript, 2D Frame-by-Frame Sprites, 3D Environments)
-* **Operating System:** openSUSE Linux (Tumbleweed)
+* **Operating System:** openSUSE Linux; Windows, Mac
 
 ---
 
