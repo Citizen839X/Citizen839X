@@ -47,7 +47,7 @@ Scalable vector sprites, clean geometry for UI/HUD elements, game character desi
 
 ---
 
-## 3D Modeling, Sculpting & Printables (Blender)
+## 3D Modeling, Sculpting & Printables
 
 A selection of 3D models created in Blender over the last 8 years. All models are available as 3D printable STL files on **Cults3D**.
 
