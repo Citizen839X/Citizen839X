@@ -75,7 +75,7 @@ A selection of 3D models created in Blender over the last 8 years. All models ar
 
 ## My Store & Additional Projects
 
-* 🎲 **[Cults3D Profile](https://cults3d.com/en/users/SitaroArtworks/3d-models):** 3D asset store for printing
+* 🎲 **[Cults3D Profile](https://cults3d.com/en/users/SitaroArtworks/3d-models):** Welcome to my 3D asset store for printing with more than 180 design!
 * 🖌️ **[SitaroArtworks-Essentials](https://github.com/Citizen839X/SitaroArtworks-Essentials):** Open-source SVG brush & vector stroke collection
 * 🎮 **[DGS-X](https://github.com/Citizen839X/DGS-X-Desktop-Gamepad-System---XInput-):** Universal gamepad-to-mouse emulator written in Python & PySide6
 
