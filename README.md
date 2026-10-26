@@ -40,7 +40,7 @@ Scalable vector sprites, clean geometry for UI/HUD elements, game character desi
 | :---: | :--- | :--- |
 | <img src="assets/2d/Emorounded_set02.png" width="250"/> | **Emorounded - Character Set**<br/>Set of expressive, rounded creature icons for mobile games, stickers, and UI elements. | Modular vector geometry, clean color fills. |
 | <img src="assets/2d/Emosquared_set02.png" width="250"/> | **Emosquared - Character Set**<br/>Square variant of the character icon set, designed for game avatars and block-based UI menus. | Fully scalable vector shapes. |
-| <img src="assets/3d/Basic_Chess_RevampedSet_2022.png" width="250"/> | **Chess Basic Asset Revamp3d**<br/>This is a textured and optimized version of my Chess basic set (rigging not included but ready to be imported into your game engine). | Textured & game-ready 3D model set.<br/><br/>[![Cults3D](https://img.shields.io/badge/Download-Cults3D-822ef5?style=for-the-badge&logo=cults3d&logoColor=white)](https://cults3d.com/en/3d-model/game/chess-basic-asset-revamp3d-3d-game-engine-asset-only) |
+| <img src="assets/3d/Basic_Chess_RevampedSet_2022.png" width="250"/> | **Chess Basic Asset Revamp3d**<br/>This is a textured and optimized version of my Chess basic set (rigging not included but ready to be imported into your game engine). | Textured & game-ready 3D model set.<br/><br/>[![Cults3D](https://img.shields.io/badge/Get_on-Cults3D-822ef5?style=for-the-badge&logo=cults3d&logoColor=white)](https://cults3d.com/en/3d-model/game/chess-basic-asset-revamp3d-3d-game-engine-asset-only) |
 
 ---
 
